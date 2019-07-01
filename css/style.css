@@ -10,7 +10,7 @@ body {
 h1 {
   padding-top: 5px;
   margin-bottom: 15px;
-  text-alig: center;
+  text-align: center;
 }
 p {
   width: 100%;
@@ -25,18 +25,30 @@ p {
 .chicken {
   background: #D59898;
   float: right;
-  border: 1px solid black;
+  padding-top: 2px;
+  padding-right: 25px;
+  padding-bottom: 2px;
+  padding-left: 25px;
+  border: 1px solid black;;
 }
 .beef {
   background: #C14543;
   float: right;
   color: #FFFFFF;
+  padding-top: 2px;
+  padding-right: 25px;
+  padding-bottom: 2px;
+  padding-left: 25px;
   border: 1px solid black;
 }
 .sushi  {
   background: #E5D198;
   float: right;
-  border: 1px solid black;  
+  padding-top: 2px;
+  padding-right: 25px;
+  padding-bottom: 2px;
+  padding-left: 25px;
+  border: 1px solid black; 
 }
 /* Simple Responsive Framework. */
 .row {
